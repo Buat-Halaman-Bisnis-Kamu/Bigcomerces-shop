@@ -1,26 +1,28 @@
-# Contributing
+# Berkontribusi 
 
-Hi there! We're excited you've got ideas to improve topics and collections. You're helping the community discover valuable information.
+Hai yang disana! Kami senang Anda memiliki ide untuk meningkatkan topik dan koleksi. 
+Anda membantu komunitas menemukan informasi berharga. Proyek ini mematuhi 
+[Kode Etik Perjanjian Utama](CODE_OF_CONDUCT.md). 
+Dengan berpartisipasi, Anda diharapkan untuk menjunjung tinggi kode ini. 
+Ada beberapa cara Anda dapat berkontribusi: 
+- Meningkatkan topik atau koleksi yang ada 
+- Mengurasi topik atau koleksi baru Saat Anda menulis konten, periksa 
 
-This project adheres to the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
+[Panduan Gaya](./docs/styleguide.md)
 
-There are a few ways you can contribute:
+ untuk mempelajari apa artinya setiap bidang, dan bagaimana mereka harus diformat. 
+Mengikuti panduan gaya akan meningkatkan peluang kontribusi Anda diterima. 
 
-- Improving an existing topic or collection
-- Curating a new topic or collection
+Catatan: Pembaruan tidak akan segera muncul setelah kami menggabungkan PR Anda. 
+Kami melakukan perubahan ini secara teratur ke GitHub. 
 
-As you write content, check out the [Style Guide](./docs/styleguide.md) to learn what each field means, and how they should be formatted. Following the style guide will improve the chances of your contribution being accepted.
+## Meningkatkan topik atau koleksi yang ada Jika topik atau koleksi sudah ada, itu akan terdaftar di direktori masing-masing: 
 
-Note: Updates won't immediately appear once we've merged your PR. We pull in these changes regularly to GitHub.
+- [topik/](https://github.com/github/explore/tree/master/topics) 
+- [koleksi/](https://github.com/github/explore/tree/master/collections)
 
-## Improving an existing topic or collection
-
-If a topic or collection already exists, it will be listed in its respective directory:
-
-- [topics/](https://github.com/github/explore/tree/master/topics)
-- [collections/](https://github.com/github/explore/tree/master/collections)
-
-The topic or collection name should match its URL, e.g. `https://github.com/topics/rails` corresponds to the [`topics/rails` directory](https://github.com/github/explore/tree/master/topics/rails).
+The topic or collection name should match its URL, e.g. `https://github.com/topics/rails` corresponds to the 
+[`topics/rails` directory](https://github.com/github/explore/tree/master/topics/rails).
 
 To make an improvement, please **open a pull request** with your proposed changes:
 
