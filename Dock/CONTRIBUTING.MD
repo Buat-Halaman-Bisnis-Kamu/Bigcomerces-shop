@@ -21,20 +21,28 @@ Kami melakukan perubahan ini secara teratur ke GitHub.
 - [topik/](https://github.com/github/explore/tree/master/topics) 
 - [koleksi/](https://github.com/github/explore/tree/master/collections)
 
-The topic or collection name should match its URL, e.g. `https://github.com/topics/rails` corresponds to the 
-[`topics/rails` directory](https://github.com/github/explore/tree/master/topics/rails).
+Topik atau nama koleksi harus cocok dengan URL-nya, 
 
-To make an improvement, please **open a pull request** with your proposed changes:
+mis.`https://github.com/topik/rails` 
+sesuai dengan [`topik/rails`direktori](https://github.com/github/explore/tree/master/topics/rails). 
+Untuk melakukan peningkatan, harap 
 
-### Update the image
+**buka permintaan tarik** 
 
-To update the image, simply replace the image inside the directory for the topic or collection.
+dengan perubahan yang Anda usulkan: 
 
-### Update text and links
+### Perbarui gambar Untuk memperbarui gambar, cukup ganti gambar di dalam direktori untuk topik atau koleksi. 
 
-To update text and links, edit the `index.md` inside the topic or collection's directory. These files are formatted using a combination of [Front Matter](https://jekyllrb.com/docs/frontmatter/) and simple body content.
+### Perbarui teks dan tautan Untuk memperbarui teks dan tautan,edit`index.md`di dalam topik atau direktori koleksi. 
 
-For **topics**, you'll notice that, in examples like the topic "[algorithm](https://raw.githubusercontent.com/github/explore/master/topics/algorithm/index.md)," data like its canonical URL, Wikipedia URL, or display name are called out in key-value pairs; while its detailed description is accounted for in the body of the document.
+File-file ini diformat menggunakan kombinasi
+
+[Front Matter](https://jekyllrb.com/docs/frontmatter/) 
+dan konten tubuh yang sederhana. Untuk **topik**, Anda akan melihat bahwa, dalam contoh-contoh seperti topik "
+
+[algoritma](https://raw.githubusercontent.com/github/explore/master/topics/algorithm/index.md)," 
+
+data seperti URL kanoniknya, URL Wikipedia, atau nama tampilan dipanggil dalam pasangan nilai kunci; sementara deskripsi terperincinya diperhitungkan dalam badan dokumen.
 
 _/topics/algorithm/index.md_:
 ```
