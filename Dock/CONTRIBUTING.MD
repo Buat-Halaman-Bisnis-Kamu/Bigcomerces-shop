@@ -58,7 +58,7 @@ Algorithms are detailed sets of guidelines created for a computer program to com
 
 ---
 
-Similarly, **collections** like "[music](https://raw.githubusercontent.com/github/explore/master/collections/music/index.md)" call out things like their author and display name in Front Matter variables -- with a detailed description in the body of the document. Most importantly, though, collections identify their individual collection items in [a YAML list](https://en.wikipedia.org/wiki/YAML#Basic_components) for the key "items."
+Demikian pula, koleksi **seperti** "[musik](https://raw.githubusercontent.com/github/explore/master/collections/music/index.md)"panggil hal-hal seperti penulis dan nama tampilan mereka di Front Matter variabel-dengan deskripsi terperinci di badan dokumen. Namun yang paling penting, koleksi mengidentifikasi masing-masing item koleksi mereka di [daftar YAML](https://en.wikipedia.org/wiki/YAML#Basic_components) untuk "item" kunci.
 
 _/collections/music/index.md_:
 
