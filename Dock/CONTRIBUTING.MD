@@ -86,23 +86,21 @@ Drop the code bass with these musically themed repositories.
 
 ---
 
-The [pull request template](./.github/PULL_REQUEST_TEMPLATE.md) also provides guidance on the information you need to include.
+[Template permintaan tarik](./.Github/PULL_REQUEST_TEMPLATE.md) juga memberikan panduan tentang informasi yang perlu Anda sertakan. 
 
-**Please fill out the pull request template completely.** If you do not fill out the template, your PR will be closed.
+**Silakan isi template permintaan tarik sepenuhnya.** 
 
-## Curating a new topic or collection
-
-If a topic or collection is not yet curated, it will NOT be listed in its respective directory.
-
-We are likely to consider suggestions to curate a topic or collection that is valuable to GitHub's community. Valuable topics, for example, include those that are already [widely used by repositories](https://help.github.com/articles/classifying-your-repository-with-topics/), or a topic that currently lacks important information. When suggesting content, please consider how to make your contribution broadly useful and relevant to others, rather than serving a specific use case.
-
-Please note that all suggestions must adhere to GitHub's [Community Guidelines](https://help.github.com/articles/github-community-guidelines/) and [Terms of Service](https://help.github.com/articles/github-terms-of-service/). Per our Terms of Service, [you are responsible](https://help.github.com/articles/github-terms-of-service/#d-user-generated-content) for the content you contribute, and you must have the rights to use it.
-
-To propose a new topic or collection, please **open a pull request** with your proposed additions. The [API docs](./docs/API.md) and [style guide](./docs/styleguide.md) provide guidance on the information you need to include and how it should be formatted.
-
-This repository includes [a list of the most-used GitHub topics that don't yet have extra context](topics-todo.md). If your pull request adds one of these topics, please update topics-todo.md so that the topic is checked (marked complete).
-
-**Please fill out the pull request template completely.** If you do not fill out the template, your pull request will be closed.
+Jika Anda tidak mengisi template, PR Anda akan ditutup. 
+## Mengurasi topik atau koleksi baru Jika suatu topik atau koleksi belum dikuratori,itu TIDAK akan terdaftar di direktori masing-masing. 
+Kami cenderung mempertimbangkan saran untuk menyusun topik atau koleksi yang berharga bagi komunitas GitHub. 
+Topik yang berharga, misalnya, termasuk yang sudah [banyak digunakan oleh repositori](https://help.github.com/articles/classifying-your-repository-with-topics/),atau topik yang saat ini tidak memiliki informasi penting . 
+Saat menyarankan konten, harap pertimbangkan bagaimana membuat kontribusi Anda bermanfaat secara luas dan relevan bagi orang lain, alih-alih melayani kasus penggunaan tertentu. 
+Harap perhatikan bahwa semua saran harus mematuhi [Pedoman Komunitas GitHub](https://help.github.com/articles/github-community-guidelines/) dan [Ketentuan Layanan](https://help.github.com/artikel/persyaratan-layanan-github/).
+Sesuai Ketentuan Layanan kami, [Anda bertanggung jawab](https://help.github.com/articles/github-terms-of-service/#d-user-generated-content) untuk konten yang Anda berkontribusi, dan Anda harus memiliki hak untuk menggunakannya. 
+Untuk mengusulkan topik atau koleksi baru, silakan **buka permintaan tarik** dengan penambahan yang Anda usulkan. 
+[API docs](./docs /API.md) dan [style guide](./docs/styleguide.md) memberikan panduan tentang informasi yang perlu Anda sertakan dan bagaimana formatnya. 
+Repositori ini mencakup [daftar topik GitHub yang paling banyak digunakan yang belum memiliki konteks tambahan](topik-todo.md). 
+Jika permintaan tarik Anda menambahkan salah satu dari topik ini, harap perbarui topik-todo.md sehingga topik tersebut diperiksa (ditandai selesai). **Harap isi template permintaan tarik sepenuhnya.** Jika Anda tidak mengisi template, permintaan tarik Anda akan ditutup.
 
 ## Guidelines
 
