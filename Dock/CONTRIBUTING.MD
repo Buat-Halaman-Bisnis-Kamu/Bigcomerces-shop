@@ -102,17 +102,17 @@ Untuk mengusulkan topik atau koleksi baru, silakan **buka permintaan tarik** den
 Repositori ini mencakup [daftar topik GitHub yang paling banyak digunakan yang belum memiliki konteks tambahan](topik-todo.md). 
 Jika permintaan tarik Anda menambahkan salah satu dari topik ini, harap perbarui topik-todo.md sehingga topik tersebut diperiksa (ditandai selesai). **Harap isi template permintaan tarik sepenuhnya.** Jika Anda tidak mengisi template, permintaan tarik Anda akan ditutup.
 
-## Guidelines
+## Pedoman 
 
-* Avoid conflicts of interest. Maintainers of a project cannot add a topic or collection for their own project. If a topic is popular enough to warrant inclusion, someone else will add or improve it.
+* Hindari konflik kepentingan. Pemelihara suatu proyek tidak dapat menambahkan topik atau koleksi untuk proyek mereka sendiri. Jika suatu topik cukup populer untuk menjamin inklusi, orang lain akan menambah atau memperbaikinya.
 
-## Running tests
+## Menjalankan tes
 
-There are some lint tests in place to ensure each topic is formatted in the way we expect. Travis
-CI will run the tests automatically. If you want to run the tests yourself locally, you will need
-Ruby and Bundler installed.
+Ada beberapa tes serat di tempat untuk memastikan setiap topik diformat dengan cara yang kita harapkan. 
+Travis CI akan menjalankan tes secara otomatis. 
+Jika Anda ingin menjalankan tes sendiri secara lokal, Anda perlu Ruby dan Bundlermenggunakan 
 
-You can run the tests using:
+Anda dapat menjalankan tes menggunakan :
 
 ```bash
 script/cibuild
